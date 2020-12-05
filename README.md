@@ -1,9 +1,10 @@
-# Fabric Example Mod
+# Improved Observer
 
-## Setup
+Adds an upgrade to Minecraft's observer block to allow for more functionality and compactness.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+## Features
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+- Change the output direction
+- Change the delay between observation and pulse
+- Change the pulse length
+- Turn your observer into a repeater with Repeater Mode

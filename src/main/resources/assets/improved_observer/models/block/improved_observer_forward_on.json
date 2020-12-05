@@ -1,0 +1,6 @@
+{
+  "parent": "improved_observer:block/improved_observer_forward",
+  "textures": {
+    "south": "improved_observer:block/improved_observer_back_on"
+  }
+}
