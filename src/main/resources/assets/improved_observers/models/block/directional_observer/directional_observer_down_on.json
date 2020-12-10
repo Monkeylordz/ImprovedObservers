@@ -1,0 +1,10 @@
+{
+  "parent": "improved_observers:block/directional_observer/directional_observer_down",
+  "textures": {
+    "south": "improved_observers:block/directional_observer/directional_observer_open_on",
+    "up": "improved_observers:block/directional_observer/directional_observer_end_on",
+    "down": "improved_observers:block/directional_observer/directional_observer_back_on",
+    "east": "improved_observers:block/directional_observer/directional_observer_left_on",
+    "west": "improved_observers:block/directional_observer/directional_observer_right_on"
+  }
+}

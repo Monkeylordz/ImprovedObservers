@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "id": "improved_observer",
+  "id": "improved_observers",
   "version": "${version}",
 
-  "name": "Improved Observer",
-  "description": "An improved observer to help compact your redstone contraptions.",
+  "name": "Improved Observers",
+  "description": "Adds enhanced observers to help compact your redstone contraptions.",
   "authors": [
     "Monkeylordz"
   ],
@@ -13,16 +13,16 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/improved_observer/improved_observer_icon.png",
+  "icon": "assets/improved_observers/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.improved_observer.ImprovedObserverMod"
+      "net.improved_observers.ImprovedObserversMod"
     ]
   },
   "mixins": [
-    "improved_observer.mixins.json"
+    "improved_observers.mixins.json"
   ],
 
   "depends": {

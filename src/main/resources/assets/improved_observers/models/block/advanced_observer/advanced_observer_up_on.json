@@ -1,0 +1,10 @@
+{
+  "parent": "improved_observers:block/advanced_observer/advanced_observer_up",
+  "textures": {
+    "south": "improved_observers:block/advanced_observer/advanced_observer_open_on",
+    "up": "improved_observers:block/advanced_observer/advanced_observer_back_on",
+    "down": "improved_observers:block/advanced_observer/advanced_observer_end_on",
+    "east": "improved_observers:block/advanced_observer/advanced_observer_right_on",
+    "west": "improved_observers:block/advanced_observer/advanced_observer_left_on"
+  }
+}

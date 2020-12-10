@@ -1,0 +1,249 @@
+{
+  "variants": {
+    "facing=down,output_facing=up,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_forward",
+      "x": 90
+    },
+    "facing=down,output_facing=north,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_up",
+      "x": 90
+    },
+    "facing=down,output_facing=south,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_down",
+      "x": 90
+    },
+    "facing=down,output_facing=east,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_left",
+      "x": 90
+    },
+    "facing=down,output_facing=west,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_right",
+      "x": 90
+    },
+    "facing=down,output_facing=up,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_forward_on",
+      "x": 90
+    },
+    "facing=down,output_facing=north,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_up_on",
+      "x": 90
+    },
+    "facing=down,output_facing=south,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_down_on",
+      "x": 90
+    },
+    "facing=down,output_facing=east,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_left_on",
+      "x": 90
+    },
+    "facing=down,output_facing=west,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_right_on",
+      "x": 90
+    },
+
+    "facing=up,output_facing=down,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_forward",
+      "x": 270
+    },
+    "facing=up,output_facing=north,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_down",
+      "x": 270
+    },
+    "facing=up,output_facing=south,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_up",
+      "x": 270
+    },
+    "facing=up,output_facing=east,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_left",
+      "x": 270
+    },
+    "facing=up,output_facing=west,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_right",
+      "x": 270
+    },
+    "facing=up,output_facing=down,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_forward_on",
+      "x": 270
+    },
+    "facing=up,output_facing=north,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_down_on",
+      "x": 270
+    },
+    "facing=up,output_facing=south,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_up_on",
+      "x": 270
+    },
+    "facing=up,output_facing=east,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_left_on",
+      "x": 270
+    },
+    "facing=up,output_facing=west,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_right_on",
+      "x": 270
+    },
+
+    "facing=north,output_facing=down,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_down",
+      "y": 0
+    },
+    "facing=north,output_facing=up,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_up",
+      "y": 0
+    },
+    "facing=north,output_facing=east,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_left",
+      "y": 0
+    },
+    "facing=north,output_facing=south,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_forward",
+      "y": 0
+    },
+    "facing=north,output_facing=west,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_right",
+      "y": 0
+    },
+    "facing=north,output_facing=down,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_down_on",
+      "y": 0
+    },
+    "facing=north,output_facing=up,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_up_on",
+      "y": 0
+    },
+    "facing=north,output_facing=east,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_left_on",
+      "y": 0
+    },
+    "facing=north,output_facing=south,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_forward_on",
+      "y": 0
+    },
+    "facing=north,output_facing=west,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_right_on",
+      "y": 0
+    },
+
+    "facing=east,output_facing=down,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_down",
+      "y": 90
+    },
+    "facing=east,output_facing=up,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_up",
+      "y": 90
+    },
+    "facing=east,output_facing=north,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_right",
+      "y": 90
+    },
+    "facing=east,output_facing=south,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_left",
+      "y": 90
+    },
+    "facing=east,output_facing=west,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_forward",
+      "y": 90
+    },
+    "facing=east,output_facing=down,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_down_on",
+      "y": 90
+    },
+    "facing=east,output_facing=up,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_up_on",
+      "y": 90
+    },
+    "facing=east,output_facing=north,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_right_on",
+      "y": 90
+    },
+    "facing=east,output_facing=south,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_left_on",
+      "y": 90
+    },
+    "facing=east,output_facing=west,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_forward_on",
+      "y": 90
+    },
+
+    "facing=south,output_facing=down,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_down",
+      "y": 180
+    },
+    "facing=south,output_facing=up,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_up",
+      "y": 180
+    },
+    "facing=south,output_facing=north,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_forward",
+      "y": 180
+    },
+    "facing=south,output_facing=east,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_right",
+      "y": 180
+    },
+    "facing=south,output_facing=west,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_left",
+      "y": 180
+    },
+    "facing=south,output_facing=down,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_down_on",
+      "y": 180
+    },
+    "facing=south,output_facing=up,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_up_on",
+      "y": 180
+    },
+    "facing=south,output_facing=north,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_forward_on",
+      "y": 180
+    },
+    "facing=south,output_facing=east,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_right_on",
+      "y": 180
+    },
+    "facing=south,output_facing=west,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_left_on",
+      "y": 180
+    },
+
+    "facing=west,output_facing=down,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_down",
+      "y": 270
+    },
+    "facing=west,output_facing=up,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_up",
+      "y": 270
+    },
+    "facing=west,output_facing=north,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_left",
+      "y": 270
+    },
+    "facing=west,output_facing=east,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_forward",
+      "y": 270
+    },
+    "facing=west,output_facing=south,powered=false": {
+      "model": "improved_observers:block/directional_observer/directional_observer_right",
+      "y": 270
+    },
+    "facing=west,output_facing=down,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_down_on",
+      "y": 270
+    },
+    "facing=west,output_facing=up,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_up_on",
+      "y": 270
+    },
+    "facing=west,output_facing=north,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_left_on",
+      "y": 270
+    },
+    "facing=west,output_facing=east,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_forward_on",
+      "y": 270
+    },
+    "facing=west,output_facing=south,powered=true": {
+      "model": "improved_observers:block/directional_observer/directional_observer_right_on",
+      "y": 270
+    }
+  }
+}

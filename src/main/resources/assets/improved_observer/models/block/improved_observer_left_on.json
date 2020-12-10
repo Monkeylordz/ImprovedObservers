@@ -1,6 +1,0 @@
-{
-  "parent": "improved_observer:block/improved_observer_left",
-  "textures": {
-    "east": "improved_observer:block/improved_observer_back_on"
-  }
-}

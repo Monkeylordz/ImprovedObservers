@@ -1,0 +1,19 @@
+{
+  "block.improved_observers.directional_observer": "Directional Observer",
+  "item.improved_observers.directional_observer": "Directional Observer",
+
+  "block.improved_observers.advanced_observer": "Advanced Observer",
+  "item.improved_observers.advanced_observer": "Advanced Observer",
+  "advanced_observer.north": "North",
+  "advanced_observer.south": "South",
+  "advanced_observer.east": "East",
+  "advanced_observer.west": "West",
+  "advanced_observer.up": "Up",
+  "advanced_observer.down": "Down",
+  "advanced_observer.output_direction": "Output Direction",
+  "advanced_observer.delay": "Delay",
+  "advanced_observer.pulse_length": "Pulse Length",
+  "advanced_observer.repeater_mode": "Repeater Mode",
+  "advanced_observer.repeater_mode_on": "On",
+  "advanced_observer.repeater_mode_off": "Off"
+}
