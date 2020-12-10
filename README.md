@@ -35,8 +35,8 @@ This is mod for Minecraft 1.16.4 using the Fabric loader. Learn more about Fabri
 
 ### Advanced Observer
 #### Simple and compact slime block elevator module
-![Slime Elevator 1](https://github.com/Monkeylordz/ImprovedObservers/blob/master/examples/Advanced_Slime_1.png)
-![Slime Elevator 2](https://github.com/Monkeylordz/ImprovedObservers/blob/master/examples/Advanced_Slime_2.png)
+![Slime Elevator 1](https://github.com/Monkeylordz/ImprovedObservers/blob/master/examples/Advanced_Slime1.png)
+![Slime Elevator 2](https://github.com/Monkeylordz/ImprovedObservers/blob/master/examples/Advanced_Slime2.png)
 
 Leave 3 blocks of air in between each module.
 
